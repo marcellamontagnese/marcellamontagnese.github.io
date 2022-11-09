@@ -34,7 +34,7 @@ CC_LICENSE = {
 }
 
 # Theme
-THEME = "pelican-themes/Flex"
+THEME = "Flex"
 
 # Main page
 MAIN_MENU = False
